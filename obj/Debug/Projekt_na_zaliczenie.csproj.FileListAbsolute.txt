@@ -1,0 +1,80 @@
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Gra.g.cs
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Gra.baml
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+c:\users\serpa\onedrive\documents\visual studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\serpa\OneDrive\Documents\Visual Studio 2015\Projects\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\OneDrive\Documents\Visual Studio 2015\Projects\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.application
+C:\Users\serpa\OneDrive\Documents\Visual Studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\OneDrive\Documents\Visual Studio 2015\Projects\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.application
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.application
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Gra.g.cs
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Gra.baml
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\Downloads\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.application
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.application
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Gra.g.cs
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Gra.baml
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\Zuzanna\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.application
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.config
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.application
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.exe
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\bin\Debug\Projekt_na_zaliczenie.pdb
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csprojResolveAssemblyReference.cache
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Gra.g.cs
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\MainWindow.g.cs
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\App.g.cs
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.cache
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie_MarkupCompile.lref
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Gra.baml
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\MainWindow.baml
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.g.resources
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.Properties.Resources.resources
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.csproj.GenerateResource.Cache
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.exe.manifest
+C:\Users\serpa\Desktop\Projekt_na_zaliczenie\obj\Debug\Projekt_na_zaliczenie.application

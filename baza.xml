@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBazaDanych xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BazaDanych>
+    <pytanie>Stryjem nazywamy:</pytanie>
+    <wariant_A>Znajomego ojca</wariant_A>
+    <wariant_B>Brata ojca</wariant_B>
+    <wariant_C>Wujka ojca</wariant_C>
+    <wariant_D>Ojca ojca</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Co widnieje w herbie miasta Piła?</pytanie>
+    <wariant_A>piła</wariant_A>
+    <wariant_B>jeleń</wariant_B>
+    <wariant_C>drzewo</wariant_C>
+    <wariant_D>anioł</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Które z państw nie leży w Afryce?</pytanie>
+    <wariant_A>Kolumbia</wariant_A>
+    <wariant_B>Maroko</wariant_B>
+    <wariant_C>Egipt</wariant_C>
+    <wariant_D>Algieria</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+  <BazaDanych>
+    <pytanie>Kifoza to choroba:</pytanie>
+    <wariant_A>nerek</wariant_A>
+    <wariant_B>ucha</wariant_B>
+    <wariant_C>płuc</wariant_C>
+    <wariant_D>kręgosłupa</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+   <BazaDanych>
+    <pytanie>Co jest strojem sędziego?</pytanie>
+    <wariant_A>toga</wariant_A>
+    <wariant_B>sutanna</wariant_B>
+    <wariant_C>kitel</wariant_C>
+    <wariant_D>kombinezon</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Kim był z zawodu Zbigniew Religa?</pytanie>
+    <wariant_A>urologiem</wariant_A>
+    <wariant_B>kardiologiem</wariant_B>
+    <wariant_C>neurologiem</wariant_C>
+    <wariant_D>radiologiem</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Grenlandia należy do:</pytanie>
+    <wariant_A>Wielkiej Brytanii</wariant_A>
+    <wariant_B>USA</wariant_B>
+    <wariant_C>Kanady</wariant_C>
+    <wariant_D>Danii</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Rabat to stolica:</pytanie>
+    <wariant_A>Maroko</wariant_A>
+    <wariant_B>Tajlandii</wariant_B>
+    <wariant_C>Monako</wariant_C>
+    <wariant_D>Omanu</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Z ilu wersów składa się sonet?</pytanie>
+    <wariant_A>2</wariant_A>
+    <wariant_B>5</wariant_B>
+    <wariant_C>22</wariant_C>
+    <wariant_D>14</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Analgesia z łaciny oznacza</pytanie>
+    <wariant_A>zwiotczenie mięśni</wariant_A>
+    <wariant_B>zniesienie bólu</wariant_B>
+    <wariant_C>zniesienie odruchów</wariant_C>
+    <wariant_D>zniesienie świadomości</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Światowa stolica mody:</pytanie>
+    <wariant_A>Paryż</wariant_A>
+    <wariant_B>Warszawa</wariant_B>
+    <wariant_C>Meksyk</wariant_C>
+    <wariant_D>Moskwa</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Ostatnia litera alfabetu greckiego to:</pytanie>
+    <wariant_A>Alfa</wariant_A>
+    <wariant_B>Beta</wariant_B>
+    <wariant_C>Gamma</wariant_C>
+    <wariant_D>Omega</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Jakie zwierzę jest symbolem systemu Linux?</pytanie>
+    <wariant_A>sowa</wariant_A>
+    <wariant_B>kot</wariant_B>
+    <wariant_C>pingwin</wariant_C>
+    <wariant_D>żyrafa</wariant_D>
+    <odpowiedz>C</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Ile końców ma półprosta?</pytanie>
+    <wariant_A>dwa</wariant_A>
+    <wariant_B>jeden</wariant_B>
+    <wariant_C>ani jednego</wariant_C>
+    <wariant_D>trzy</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Jajko wiedeńskie to inaczej jajko:</pytanie>
+    <wariant_A>smażone</wariant_A>
+    <wariant_B>w szklance</wariant_B>
+    <wariant_C>gotowane</wariant_C>
+    <wariant_D>sadzone</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Kraj o największej liczbie mieszkańców to:</pytanie>
+    <wariant_A>Chiny</wariant_A>
+    <wariant_B>Mongolia</wariant_B>
+    <wariant_C>Hiszpania</wariant_C>
+    <wariant_D>Rosja</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Jeżeli nastąpiła stagnacja lodowca to znaczy że lodowiec</pytanie>
+    <wariant_A>jest w fazie postoju</wariant_A>
+    <wariant_B>jest w fazie akumulacji</wariant_B>
+    <wariant_C>jest w fazie oscylacji</wariant_C>
+    <wariant_D>jest w fazie ablacji</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Lewar służył do:</pytanie>
+    <wariant_A>wyciskania soków</wariant_A>
+    <wariant_B>rozdrabniania kamienia</wariant_B>
+    <wariant_C>nawożenia ziemi</wariant_C>
+    <wariant_D>przelewania cieczy</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Zakaz handlu w Polsce nie obowiązuje:</pytanie>
+    <wariant_A>w Wigilię</wariant_A>
+    <wariant_B>w Święto Pracy</wariant_B>
+    <wariant_C>w Nowy Rok</wariant_C>
+    <wariant_D>w 2-gi dzień Wielkanocy</wariant_D>
+    <odpowiedz>A</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Cerkiew to świątynia</pytanie>
+    <wariant_A>grekokatolicka</wariant_A>
+    <wariant_B>prawosławna</wariant_B>
+    <wariant_C>islamska</wariant_C>
+    <wariant_D>judaistyczna</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Co mierzy barometr?</pytanie>
+    <wariant_A>prędkość wiatru</wariant_A>
+    <wariant_B>ciepło</wariant_B>
+    <wariant_C>ciśnienie</wariant_C>
+    <wariant_D>masę</wariant_D>
+    <odpowiedz>C</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Który z narządów człowieka nie jest parzysty?</pytanie>
+    <wariant_A>nerka</wariant_A>
+    <wariant_B>dwunastica</wariant_B>
+    <wariant_C>jsjnik</wariant_C>
+    <wariant_D>płuco</wariant_D>
+    <odpowiedz>B</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Jednostka astronomiczna jest równa:</pytanie>
+    <wariant_A>około 250 mln km</wariant_A>
+    <wariant_B>około 500 mln km</wariant_B>
+    <wariant_C>około 1 mld km</wariant_C>
+    <wariant_D>około 150 mln km</wariant_D>
+    <odpowiedz>D</odpowiedz>
+  </BazaDanych>
+    <BazaDanych>
+    <pytanie>Narodowym sportem Japonii jest:</pytanie>
+    <wariant_A>piłka nożna</wariant_A>
+    <wariant_B>skoki narciarskie</wariant_B>
+    <wariant_C>sumo</wariant_C>
+    <wariant_D>jazda figurowa</wariant_D>
+    <odpowiedz>C</odpowiedz>
+  </BazaDanych>
+</ArrayOfBazaDanych>
